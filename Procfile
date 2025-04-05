@@ -1,0 +1,1 @@
+web: npm i -g express path && node server.js
